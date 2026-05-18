@@ -39,9 +39,10 @@
 
 ## 📊 GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api?username=LucasHenrique-d&show_icons=true&theme=tokyonight&hide_border=true)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=LucasHenrique-d&layout=compact&theme=tokyonight&hide_border=true)
+<p align="center">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=LucasHenrique-d&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasHenrique-d&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
 
 ---
 
